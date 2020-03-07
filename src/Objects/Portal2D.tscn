@@ -43,6 +43,7 @@ pause_mode = 2
 monitorable = false
 collision_layer = 0
 script = ExtResource( 1 )
+next_scene = null
 
 [node name="Sprite" type="Sprite" parent="."]
 modulate = Color( 1, 1, 1, 0.6 )
